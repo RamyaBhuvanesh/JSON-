@@ -1,1 +1,62 @@
-hvhgh
+                                    # SDLC METHODOLOGIES:
+                                    
+# 1. water fall
+# 2. agile  --------------> morden one
+# 3. spiral
+# 4. iterative 
+
+------------------------------------------------------------------------------------------------------------------------
+
+# waterfall methodology:
+
+        # stringent type 
+        # traditional model
+        # it is the linear sequencial model for SDLC
+        # it is divided into phases
+        # if you completed first phase yhen you can go to another phase
+        # this methodology does not support any changes happenning in between the project
+        # if you use this methodolgy you have to deliver it after you complete the whole project to the client
+              
+              # phases:
+                   # 1. analysis
+                   # 2. design
+                   # 3. execution
+                   # 4.testing
+                   # 5.deployment
+                   
+                # advantage: 
+                   # its very simple model 
+                   # easy to understand
+                   # work from one phase to next
+                   # developer friendly
+                   # no complex is involved
+                   
+                # dis advantage:
+                   # not clear about the project
+                   # changes cant be applies
+                   # time consuming 
+                   # its is not client friendly
+                   
+------------------------------------------------------------------------------------------------------------------------                
+
+# agile methodology: (flexible)
+ 
+       # client is also involved and goes on with the project  ------------> (client is also part of the project)
+       # iterative process and allows frequent change in the project
+       # it is the process of SDLC
+       #  rather than requirements this methodology is based on flexibility and adaptability of new changes in the project
+       
+                  # advantage:
+                      # mistakes can be resolved anytime
+                      # quick adapatability
+                      # client satisficationrisk free
+                      # client knows in and out of the project
+                      
+                  # dis advantage:
+                      # lack of documentation
+                      # it is not developer friendly
+                      # project needs an expert in agile
+                      # it is not based on requirement
+               39.35
+
+
